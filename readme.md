@@ -12,7 +12,7 @@
 - **Multithreaded Searches**: Separated searches for all items onto their own threads for a little speed boost. May have been overkill.
 - **Error Handling**: Added error handling with retries to ensure proper input from the user before continuing.
 - **Rich Console Formatting**: To improve the overall CLI experience.
-- **Native Paginators**: To ensure all possible results from Tableau are displayed.
+- **Native Paginators**: To ensure all possible search results are displayed.
 - **Tabular Results**: To satisfy the developers with OCD...
 - **Highlighted Search Terms**: Case-insensitive. I, too, forget what I searched for.
 - **Optional Image Downloads**: Downloads view images and workbook preview images to a `downloads` directory. Completely optional.
